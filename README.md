@@ -5,7 +5,7 @@ This is a dice rolling game you have to follow the conditions and Win.
 * take take three number from user.
 * task-2
 * get three random number by computer.
-/
+//
 /* task-6
 * call the functions.
 * check the conditions using if statements
